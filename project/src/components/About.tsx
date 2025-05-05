@@ -30,7 +30,7 @@ const About = () => {
 
   const handleDownloadResume = () => {
     // Replace with your actual resume URL
-    const resumeUrl = '/Jasmin_Radadiya_ Resume.pdf';
+    const resumeUrl = '/Jasmin_Radadiya_Resume.pdf';
     window.open(resumeUrl, '_blank');
   };
 
