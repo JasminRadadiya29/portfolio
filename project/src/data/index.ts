@@ -79,6 +79,7 @@ export const projectsData = [
   {
     id: "music-academy",
     title: "Music Academy",
+    image:"/musicNext.png",
     description: "A responsive platform for music courses using Next.js and modern UI components.",
     technologies: ["Next.js", "Aceternity UI", "JWT", "React.js", "Tailwind CSS"],
     longDescription: "Built a professional platform for music education featuring course listings, student enrollment, and instructor management. The application uses modern authentication methods and a sleek UI.",
@@ -89,8 +90,8 @@ export const projectsData = [
       "Course browsing and enrollment system",
       "Instructor profiles and course management"
     ],
-    demoLink: "https://example.com/music-academy",
-    repoLink: "https://github.com/username/music-academy"
+    demoLink: "https://musicnextjs-sigma.vercel.app/",
+    repoLink: "https://github.com/JasminRadadiya29/musicnextjs"
   },
   {
     id: "tradehub",

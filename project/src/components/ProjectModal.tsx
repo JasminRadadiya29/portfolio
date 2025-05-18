@@ -59,7 +59,7 @@ const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) => {
               <img 
                 src={project.image} 
                 alt={project.title} 
-                className="w-full h-full object-cover"
+                className="w-[50%] h-full object-cover"
               />
             ) : (
               <h2 className="text-3xl md:text-4xl font-bold text-white px-4 text-center">
